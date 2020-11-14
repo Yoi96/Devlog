@@ -1,0 +1,86 @@
+﻿@charset "utf-8";
+/* CSS Document */
+#linking_words{
+	width: 1200px;
+	height: 100%;
+	line-height: 20px;
+	padding-top: 10px;
+	margin: 0px auto;
+}
+li.LWtitle{
+	font-weight: bolder;
+	width: 1200px;
+	color:#fff;
+	font-size: 20px;
+	margin: 0px;
+	background:#1b1a18;
+	height: 150px;
+	line-height: 150px;
+	text-align: center;
+}
+.Lw_navs1{
+	width: 235px;
+	height: 20px;
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+	background:#FCCB0C;
+	text-align: center;
+	line-height: 20px;
+}
+.Lw_navs{
+	width: 236px;
+	height: 20px;
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+	background:#FCCB0C;
+	margin-left:5px;
+	text-align: center;
+	line-height: 20px;
+}
+.LW_Information{
+	width: 221px;
+	height: 300px;
+	float: left;
+	font-size: 16px;
+	margin-left:5px;
+	padding-top: 10px;
+    display: block;
+	padding-left: 15px;
+
+}
+.LW_Information1{
+	width: 220px;
+	height: 300px;
+	float: left;
+	font-size: 16px;
+    padding-top: 10px;
+    display: block;
+	padding-left: 15px;
+
+}
+.LW_Information_color{
+	width: 221px;
+	height: 300px;
+	float: left;
+	font-size: 16px;
+	margin-left:5px;
+	padding-top: 10px;
+	background:#FCCB0C;
+	display: block;
+	padding-left: 15px;
+
+}
+.LW_Information_color1{
+	width: 220px;
+	height: 300px;
+	float: left;
+	font-size: 16px;
+	padding-top: 10px;
+	background:#FCCB0C;
+	display: block;
+	padding-left: 15px;
+
+}
+
